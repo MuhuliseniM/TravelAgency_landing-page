@@ -28,7 +28,7 @@ Future updates may include responsiveness.
 
 ## Live Demo
 
-[View on GitHub Pages](https://MuhuliseniM.github.io/TravelAgency_landing-page/) 
+[View on GitHub Pages](https://muhulisenim.github.io/TravelAgency_landing-page/) 
 
 ---
 ##
